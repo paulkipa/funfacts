@@ -10,6 +10,7 @@ export default function Main(props) {
                 <li>Has well over 100K stars on GitHub</li>
                 <li>Is maintained by Facebook</li>
                 <li>Powers thousands of enterprise apps, including mobile apps</li>
+                <li>Some of the major companies that currently use React include: Netflix, Facebook, Instagram, Airbnb, Reddit, Dropbox, and Postmates.</li>
             </ul>
         </main>
     )
